@@ -316,6 +316,7 @@ freeglut3-dev					install
 freepats					install
 frogatto					install
 frogatto-data					install
+ftplib3						install
 fuse						install
 fuse-utils					install
 fuseiso						install
@@ -346,6 +347,8 @@ gconf2-common					install
 gdebi						install
 gdebi-core					install
 gdm3						install
+gearhead2					install
+gearhead2-data					install
 gedit						install
 gedit-common					install
 geeqie						install
@@ -515,6 +518,7 @@ gxmessage					install
 gzip						install
 hal						deinstall
 happy						install
+hasciicam					install
 haskell-doc					install
 haskell98-report				install
 haskell98-tutorial				install
@@ -2011,6 +2015,7 @@ lmodern						install
 locales						install
 locate						install
 login						install
+logkeys						install
 logrotate					install
 lp-solve					install
 lsb-base					install
@@ -2055,6 +2060,7 @@ mono-4.0-gac					install
 mono-gac					install
 mono-runtime					install
 moreutils					install
+moria						install
 mount						install
 mousetweaks					install
 mpc						deinstall
@@ -2174,6 +2180,7 @@ policykit-1					install
 policykit-1-gnome				install
 poppler-data					install
 poppler-utils					install
+powder						install
 powermgmt-base					install
 powertop					install
 ppp						install
@@ -2375,6 +2382,8 @@ sgml-data					install
 shared-mime-info				install
 shotwell					install
 skype						install
+slashem-common					install
+slashem-gtk					install
 snort						install
 snort-common					install
 snort-common-libraries				install
