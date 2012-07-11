@@ -1,9 +1,12 @@
 abook
 autoconf
 automake
+bdw-gc
 bsdmake
 ctags
 erlang
+figlet
+fortune
 gdbm
 gettext
 ghc
@@ -13,6 +16,7 @@ gmime
 haskell-platform
 jansson
 jshon
+jzmq
 libevent
 libffi
 libtool
@@ -30,6 +34,7 @@ proctools
 rabbitmq
 readline
 remind
+rogue
 ruby
 sbt
 scala
@@ -38,7 +43,9 @@ tmux
 tokyo-cabinet
 tree
 urlview
+w3m
 wget
 xapian
 xz
+zeromq
 zsh
