@@ -4,6 +4,7 @@ automake
 bdw-gc
 bsdmake
 ctags
+curl
 erlang
 figlet
 fortune
@@ -16,10 +17,12 @@ gmime
 haskell-platform
 jansson
 jshon
+json-c
 jzmq
 libevent
 libffi
 libtool
+libxml2
 libyaml
 lynx
 markdown
@@ -27,6 +30,7 @@ mercurial
 mr
 msmtp
 mutt
+newsbeuter
 notmuch
 pcre
 pkg-config
@@ -38,6 +42,8 @@ rogue
 ruby
 sbt
 scala
+sqlite
+stfl
 talloc
 tmux
 tokyo-cabinet
