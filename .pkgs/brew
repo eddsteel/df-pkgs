@@ -3,6 +3,9 @@ autoconf
 automake
 bdw-gc
 bsdmake
+clisp
+clojure
+csshx
 ctags
 curl
 erlang
@@ -21,6 +24,7 @@ json-c
 jzmq
 libevent
 libffi
+libsigsegv
 libtool
 libxml2
 libyaml
