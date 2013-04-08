@@ -38,6 +38,7 @@ git
 glib
 gmime
 gnu-getopt
+gnu-sed
 gnu-tar
 gnupg
 gnupg2
@@ -92,6 +93,7 @@ mutt
 nailgun
 netcat
 newsbeuter
+node
 notmuch
 p11-kit
 pass
